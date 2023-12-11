@@ -6,6 +6,7 @@ Key Features of the Project:
 
 Dataset Selection and Exploration:
 
+I donload this dataset from kaggle
 I curated a robust dataset comprising a diverse range of real estate features such as location, square footage, number of bedrooms, and more.
 Conducted exploratory data analysis (EDA) to gain insights into the distribution and relationships among different variables.
 Data Preprocessing:
